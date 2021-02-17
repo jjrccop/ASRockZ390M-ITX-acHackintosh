@@ -4,7 +4,7 @@ Verified working with macOS version 11.2.1(20D74) Big Sur and OpenCore 0.6.6.
 
 After you fully installation, remember to use Opencore Configurator to change your Platform Info, and choose iMac 19,1.
 
-![About macOS](./About macOS.png)
+![About macOS](https://github.com/jjrccop/ASRockZ390M-ITX-acHackintosh/blob/master/About%20macOS.png?raw=true)
 
 ## Configuration
 
