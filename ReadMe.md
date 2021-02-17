@@ -10,7 +10,7 @@ After you fully installation, remember to use Opencore Configurator to change yo
 
 - Motherboard: ASRock Z390M-ITX/ac
 
-- CPU: Intel® Core™ i7-8700 Processor
+- CPU: Intel® Core™ i7-9700K Processor
 
 - iGPU: Intel® Core™ UHD Graphics 630
 
